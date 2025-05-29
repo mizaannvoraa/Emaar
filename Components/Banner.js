@@ -29,7 +29,7 @@ const Banner = ({countryFromURL}) => {
                 </span>
               </h1>
               <p id="form" className="text-lg sm:text-xl text-white/80 font-light max-w-xl">
-                Experience luxury living in Mumbai’s most prestigious developments by the world’s leading real estate developer.
+                Experience luxury living in Dubai’s most prestigious developments by the world’s leading real estate developer.
               </p>
               <div className="hidden lg:flex flex-wrap gap-4 pt-4">
                 {['Prime Location', 'World-Class Amenities', 'Premium Finishes'].map((feature) => (
