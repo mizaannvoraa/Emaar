@@ -4,7 +4,7 @@ import React from 'react';
 const Page = () => {
   return (
     <div
-      style={{ minHeight: '90vh' }}
+      style={{ minHeight: '95vh' }}
       className="flex items-center justify-center bg-white text-black p-4"
     >
       <div className="text-center">
