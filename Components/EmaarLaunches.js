@@ -4,27 +4,27 @@ import Image from "next/image";
 const projects = [
   {
     title: "GRAND POLO",
-    image: "/assets/EmaarHorse.jpg",
+    image: "/assets/Emaar_Image1.webp",
   },
   {
     title: "rivera",
-    image: "/assets/Emaar_Banner2.jpg",
+    image: "/assets/Emaar_Image2.webp",
   },
   {
     title: "albero",
-    image: "/assets/Emaar_Banner3.jpg",
+    image: "/assets/Emaar_Image3.webp",
   },
   {
     title: "PALACE VILLAS OPERA",
-    image: "/assets/Emaar_Banner4.jpg",
+    image: "/assets/Emaar_Image4.webp",
   },
   {
     title: "GOLF VERGE",
-    image: "/assets/Emaar_Banner5.jpg",
+    image: "/assets/Emaar_Image5.webp",
   },
   {
     title: "GOLF Meadow",
-    image: "/assets/Emaar_Banner6.jpg",
+    image: "/assets/Emaar_Image6.webp",
   },
 ];
 
@@ -41,7 +41,7 @@ export default function EmaarLaunches() {
               src={project.image}
               alt={project.title}
               width={500}
-              quality={95}
+              // quality={95}
               height={600}
               className="w-full h-full object-cover transition duration-300 group-hover:brightness-65"
             />
