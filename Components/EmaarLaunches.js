@@ -34,14 +34,14 @@ export default function EmaarLaunches() {
       <h1 className="font-normal text-[25px] md:text-left text-center md:text-[35.0312px] md:leading-[37.6944px] leading-[30.6944px]t tracking-[1px] lato text-[#000000] md:mb-12 mb-6">
         LATEST EMAAR LAUNCHES
       </h1>
-      <div className=" grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-5">
+      <div className=" grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
         {projects.map((project, index) => (
           <div key={index} className="relative group overflow-hidden shadow-md">
             <Image
               src={project.image}
               alt={project.title}
               width={500}
-              // quality={95}
+              quality={95}
               height={600}
               className="w-full h-full object-cover transition duration-300 group-hover:brightness-65"
             />
