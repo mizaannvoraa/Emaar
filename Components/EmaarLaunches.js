@@ -8,15 +8,15 @@ const projects = [
   },
   {
     title: "rivera",
-    image: "/assets/Emaar_Image2.webp",
+    image: "/assets/Emaar_Image4.webp",
   },
   {
     title: "albero",
-    image: "/assets/Emaar_Image3.webp",
+    image: "/assets/Emaar_Image2.webp",
   },
   {
     title: "PALACE VILLAS OPERA",
-    image: "/assets/Emaar_Image4.webp",
+    image: "/assets/Emaar_Image3.webp",
   },
   {
     title: "GOLF VERGE",
