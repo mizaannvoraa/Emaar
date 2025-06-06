@@ -46,7 +46,8 @@ const RegistrationForm = ({ countryFromURL }) => {
 
   const countryCodeMap = {
     canada: "ca",
-    usa: "us",
+    us: "us",
+    turkey: "tr",
     india: "in",
     dubai: "ae",
     uae: "ae",

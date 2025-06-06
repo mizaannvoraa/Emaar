@@ -16,11 +16,11 @@ const projects = [
   },
   {
     title: "PALACE VILLAS OPERA",
-    image: "/assets/Emaar_Image3.webp",
+    image: "/assets/Emaar_Altan.webp",
   },
   {
     title: "GOLF VERGE",
-    image: "/assets/Emaar_Image5.webp",
+    image: "/assets/Emaar_GolfVerge.webp",
   },
   {
     title: "GOLF Meadow",
