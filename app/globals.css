@@ -31,3 +31,8 @@ body {
 .optima {
   font-family: var(--font-lato), sans-serif;
 }
+@media screen and (max-width:350px) {
+  .mid_text{
+    font-size: 11px;
+  }
+}
