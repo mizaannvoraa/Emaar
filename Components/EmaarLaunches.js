@@ -16,7 +16,7 @@ const projects = [
   },
   {
     title: "PALACE VILLAS OPERA",
-    image: "/assets/Emaar_Altan.webp",
+    image: "/assets/Emaar_Silva.webp",
   },
   {
     title: "GOLF VERGE",
