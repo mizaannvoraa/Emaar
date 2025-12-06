@@ -78,6 +78,7 @@ export default function EmaarLaunches() {
         <p className="text-sm font-semibold mt-7 text-gray-400 uppercase tracking-wide whitespace-nowrap">
           Details
         </p>
+        
         <div className="w-[100px] mt-8 h-px bg-gray-500"></div>
       </div>
     </div>
