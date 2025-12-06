@@ -26,6 +26,18 @@ const projects = [
     title: "GOLF Meadow",
     image: "/assets/Emaar_Image6.webp",
   },
+  {
+    title: "valley",
+    image: "/assets/Emaar_Image7.webp",
+  },
+  {
+    title: "Haven",
+    image: "/assets/Emaar_Image8.webp",
+  },
+  {
+    title: "Avaara",
+    image: "/assets/Emaar_Image9.webp",
+  },
 ];
 
 export default function EmaarLaunches() {
